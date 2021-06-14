@@ -1,0 +1,1 @@
+This is shell redirection and i/o ans filter
